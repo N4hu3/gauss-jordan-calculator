@@ -20,7 +20,7 @@ A web-based calculator to solve linear equation systems using the  **Gauss-Jorda
 
 1. Clone or download the repository:
    ```bash
-   git clone https://github.com/your-username/gauss-jordan-calculator.git
+   git clone https://github.com/N4hu3/gauss-jordan-calculator.git
    ```
 2. Open the `index.html` file in any modern browser.
 3. Choose the dimension of the matrix and click  **Create Matrix** .
